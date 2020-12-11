@@ -10,9 +10,9 @@ dependencies:
         sdk: flutter
     flutter_clock_helper:
       git:
-      url: git://github.com/emvaized/neumorphic_flutter_clock
-      path: ./flutter_clock_helper/
-      ref: master
+        url: git://github.com/emvaized/neumorphic_flutter_clock
+        path: ./flutter_clock_helper/
+        ref: master
     cupertino_icons: ^0.1.2
     flare_flutter: ^1.8.3
     flutter_svg: 0.15.0
